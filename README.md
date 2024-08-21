@@ -39,7 +39,20 @@
 
 ###
 
-<br clear="both">
+###
 
+<br clear="both">
+<h3 align = "center" style= "text-decoration:underline;">My contact</h3>
+<div align="center">
+  <div align="center">
+  <a href="https://www.linkedin.com/in/vinicius-brand%C3%A3o-b5475a234/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <h5>My email: Vinicius.dbsouza66@gmail.com</h5>
+</div>
+
+
+</div>
 
 ###
